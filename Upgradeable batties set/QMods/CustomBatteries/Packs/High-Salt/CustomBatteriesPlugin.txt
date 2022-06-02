@@ -1,0 +1,16 @@
+CustomBatteriesPack:
+(
+    PluginPackName:HiSaLT;
+    BatteryCapacity:250;
+    UnlocksWith:Salt;
+    BatteryID:HiSaLT-batt-250;
+    BatteryName:"High Salt battery 250";
+    BatteryFlavorText:"Taste better with salt.";
+    BatteryParts:; #cc2#
+    BatteryIconFile:"HiSaLT-batt-250.png";
+    PowerCellID:HiSaLT-cell-500;
+    PowerCellName:"High Salt cell 500";
+    PowerCellFlavorText:"Taste better with salt.";
+    PowerCellAdditionalParts:; #cc2#
+    PowerCellIconFile:"HiSaLT-cell-500.png";
+);

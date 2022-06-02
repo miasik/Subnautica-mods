@@ -1,0 +1,17 @@
+CustomBatteriesPack:
+(
+    PluginPackName:TriACID;
+    BatteryCapacity:150;
+    UnlocksWith:AcidMushroom;
+    BatteryID:TriACID-batt-150;
+    BatteryName:"Triple ACID battery 150";
+    BatteryFlavorText:"Triple sour but still cheap.";
+    BatteryParts:
+        Battery, AcidMushroom;
+    BatteryIconFile:"TriACID-batt-150.png";
+    PowerCellID:TriACID-cell-300;
+    PowerCellName:"Triple ACID cell 300";
+    PowerCellFlavorText:"Triple sour but still cheap.";
+    PowerCellAdditionalParts:;
+    PowerCellIconFile:"TriACID-cell-300.png";
+);

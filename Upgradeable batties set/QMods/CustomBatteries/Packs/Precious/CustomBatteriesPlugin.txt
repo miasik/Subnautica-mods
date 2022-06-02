@@ -1,0 +1,16 @@
+CustomBatteriesPack:
+(
+    PluginPackName:Prec;
+    BatteryCapacity:400;
+    UnlocksWith:ExosuitBlueprint;
+    BatteryID:Prec-batt-400;
+    BatteryName:"Precious battery 400";
+    BatteryFlavorText:"My precious!";
+    BatteryParts:; #cc2#
+    BatteryIconFile:"Prec-batt-400.png";
+    PowerCellID:Prec-cell-800;
+    PowerCellName:"Precious cell 800";
+    PowerCellFlavorText:"My precious!";
+    PowerCellAdditionalParts:; #cc2#
+    PowerCellIconFile:"Prec-cell-800.png";
+);

@@ -1,0 +1,16 @@
+CustomBatteriesPack:
+(
+    PluginPackName:PoBL;
+    BatteryCapacity:450;
+    UnlocksWith:CyclopsBlueprint;
+    BatteryID:PoBL-batt-450;
+    BatteryName:"Pouch of Blood battery 450";
+    BatteryFlavorText:"Two steps to hell.";
+    BatteryParts:; #cc2#
+    BatteryIconFile:"PoBL-batt-450.png";
+    PowerCellID:PoBL-cell-900;
+    PowerCellName:"Pouch of Blood cell 900";
+    PowerCellFlavorText:"Two steps to hell.";
+    PowerCellAdditionalParts:; #cc2#
+    PowerCellIconFile:"PoBL-cell-900.png";
+);

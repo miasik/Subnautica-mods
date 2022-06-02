@@ -1,0 +1,16 @@
+CustomBatteriesPack:
+(
+    PluginPackName:SePrec;
+    BatteryCapacity:350;
+    UnlocksWith:SeamothBlueprint;
+    BatteryID:SePrec-batt-350;
+    BatteryName:"Semi Precious battery 350";
+    BatteryFlavorText:"It shines.";
+    BatteryParts:; #cc2#
+    BatteryIconFile:"SePrec-batt-350.png";
+    PowerCellID:SePrec-cell-700;
+    PowerCellName:"Semi Precious cell 700";
+    PowerCellFlavorText:"It shines.";
+    PowerCellAdditionalParts:; #cc2#
+    PowerCellIconFile:"SePrec-cell-700.png";
+);

@@ -1,0 +1,16 @@
+CustomBatteriesPack:
+(
+    PluginPackName:SunLight;
+    BatteryCapacity:200;
+    UnlocksWith:CreepvineSeedCluster;
+    BatteryID:SunLight-batt-200;
+    BatteryName:"Sunlight battery 200";
+    BatteryFlavorText:"Let the Sun warm you!";
+    BatteryParts:; #cc2#
+    BatteryIconFile:"SunLight-batt-200.png";
+    PowerCellID:SunLight-cell-400;
+    PowerCellName:"Sunlight cell 400";
+    PowerCellFlavorText:"Let the Sun warm you!";
+    PowerCellAdditionalParts:; #cc2#
+    PowerCellIconFile:"SunLight-cell-400.png";
+);
