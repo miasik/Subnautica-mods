@@ -1,6 +1,6 @@
 # Subnautica-mods
 My mods for Subnautica game
-## Upgradeable batties set
+## Upgradeable batteries set
 The set was made with the next ideas in mind:
 1. Different batteries have to be available to a player.
 2. The batteries need to have different complexity and price.
