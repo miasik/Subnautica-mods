@@ -6,7 +6,7 @@ The set was made with the next ideas in mind:
 2. The batteries need to have different complexity and price.
 3. The simplest and cheapest batteries have to be available almost after a new game starts.
 4. Top level batteries have to be available for a player before the game ends in order to give time to use them.
-###How to use
+### How to use
 Actually, this isn't a mod.
 This is a set of configuration files for `CustomCraft2` and `CustomBatteries` mods. It means you have to install those two mods to `Subnautica\QMods` and then copy my configs there.
 
