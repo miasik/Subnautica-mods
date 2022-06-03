@@ -12,8 +12,10 @@ This is a set of configuration files for `CustomCraft2` and `CustomBatteries` mo
 
 [Spreadsheet with receipts](https://docs.google.com/spreadsheets/d/1dg1_6DHfWw16LHQqNaENshk4pyM28qT2TEcOFh5uM7E)
 
-A piece of code for `CustomHotkeys` mod which may be useful in testing
-```
+<p>
+<details>
+<summary>A piece of code for `CustomHotkeys` mod which may be useful in testing</summary>
+<pre><code>
 {
   "hotkeys": [
     {
@@ -33,4 +35,6 @@ A piece of code for `CustomHotkeys` mod which may be useful in testing
     }
   ]
 }
-```
+</code></pre>
+</details>
+</p>
