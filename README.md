@@ -8,7 +8,7 @@ The set was made with the next ideas in mind:
 4. Top level batteries have to be available for a player before the game ends in order to give time to use them.
 ### How to use
 Actually, this isn't a mod.
-This is a set of configuration files for `CustomCraft2` and `CustomBatteries` mods. It means you have to install those two mods to `Subnautica\QMods` and then copy my configs there.
+This is a set of configuration files for `CustomCraft2` and `CustomBatteries` mods. It means you need to install those two mods to `Subnautica\QMods` and then copy my configs there.
 
 [Spreadsheet with receipts](https://docs.google.com/spreadsheets/d/1dg1_6DHfWw16LHQqNaENshk4pyM28qT2TEcOFh5uM7E)
 
