@@ -12,7 +12,7 @@
     AmountCrafted: 1;
     Ingredients:
         ( ItemID:TriACID-batt-150; Required:1; ),
-        ( ItemID:Gaspod; Required:1; ),
+        ( ItemID:Gaspod; Required:2; ),
         ( ItemID:CreepvineSeedCluster; Required:1; );
 ),
 (
@@ -21,7 +21,7 @@
     Ingredients:
         ( ItemID:TriACID-cell-300; Required:1; ),
         ( ItemID:Lubricant; Required:1; ),
-        ( ItemID:Gaspod; Required:1; ),
+        ( ItemID:Gaspod; Required:2; ),
         ( ItemID:creepvineseedcluster; Required:1; );
 ),
 (
@@ -29,7 +29,7 @@
     AmountCrafted: 1;
     Ingredients:
 		( ItemID:SunLight-batt-200; Required:1; ),
-		( ItemID:Salt; Required:2; );
+		( ItemID:Salt; Required:3; );
 ),
 (
     ItemID:HiSaLT-cell-500;
@@ -37,14 +37,14 @@
     Ingredients:
         ( ItemID:SunLight-cell-400; Required:1; ),
 		( ItemID:Lubricant; Required:1; ),
-		( ItemID:Salt; Required:2; );
+		( ItemID:Salt; Required:3; );
 ),
 (
     ItemID:HeLe-batt-300;
     AmountCrafted: 1;
     Ingredients:
 		( ItemID:HiSaLT-batt-250; Required:1; ),
-		( ItemID:Lead; Required:2; );
+		( ItemID:Lead; Required:4; );
 ),
 (
     ItemID:HeLe-cell-600;
@@ -52,15 +52,15 @@
     Ingredients:
         ( ItemID:HiSaLT-cell-500; Required:1; ),
 		( ItemID:Lubricant; Required:2; ),
-		( ItemID:Lead; Required:2; );
+		( ItemID:Lead; Required:4; );
 ),
 (
     ItemID:SePrec-batt-350;
     AmountCrafted: 1;
     Ingredients:
 		( ItemID:HeLe-batt-300; Required:1; ),
-		( ItemID:Silver; Required:1; ),
-		( ItemID:Enameledglass; Required:1; );
+		( ItemID:Silver; Required:3; ),
+		( ItemID:Enameledglass; Required:3; );
 ),
 (
     ItemID:SePrec-cell-700;
@@ -68,16 +68,16 @@
     Ingredients:
         ( ItemID:HeLe-cell-600; Required:1; ),
 		( ItemID:Lubricant; Required:2; ),
-		( ItemID:Silver; Required:1; ),
-		( ItemID:Enameledglass; Required:1; );
+		( ItemID:Silver; Required:3; ),
+		( ItemID:Enameledglass; Required:3; );
 ),
 (
     ItemID:Prec-batt-400;
     AmountCrafted: 1;
     Ingredients:
 		( ItemID:SePrec-batt-350; Required:1; ),
-		( ItemID:Gold; Required:1; ),
-		( ItemID:Diamond; Required:1; );
+		( ItemID:Gold; Required:4; ),
+		( ItemID:Diamond; Required:2; );
 ),
 (
     ItemID:Prec-cell-800;
@@ -85,17 +85,17 @@
     Ingredients:
         ( ItemID:SePrec-cell-700; Required:1; ),
 		( ItemID:Lubricant; Required:2; ),
-		( ItemID:Gold; Required:1; ),
-		( ItemID:Diamond; Required:1; );
+		( ItemID:Gold; Required:4; ),
+		( ItemID:Diamond; Required:2; );
 ),
 (
     ItemID:PoBL-batt-450;
     AmountCrafted: 1;
     Ingredients:
 		( ItemID:Prec-batt-400; Required:1; ),
-		( ItemID:Jellyplant; Required:1; ),
-		( ItemID:Bloodoil; Required:1; ),
-		( ItemID:Aluminumoxide; Required:1; );
+		( ItemID:Jellyplant; Required:2; ),
+		( ItemID:Bloodoil; Required:4; ),
+		( ItemID:Aluminumoxide; Required:3; );
 ),
 (
     ItemID:PoBL-cell-900;
@@ -103,7 +103,7 @@
     Ingredients:
         ( ItemID:Prec-cell-800; Required:1; ),
 		( ItemID:Lubricant; Required:2; ),
-		( ItemID:Jellyplant; Required:1; ),
-		( ItemID:Bloodoil; Required:1; ),
-		( ItemID:Aluminumoxide; Required:1; );
+		( ItemID:Jellyplant; Required:2; ),
+		( ItemID:Bloodoil; Required:4; ),
+		( ItemID:Aluminumoxide; Required:3; );
 );
