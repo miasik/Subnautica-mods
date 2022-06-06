@@ -2,7 +2,7 @@ CustomBatteriesPack:
 (
     PluginPackName:PoBL;
     BatteryCapacity:450;
-    UnlocksWith:CyclopsBlueprint;
+    UnlocksWith:Cyclops;
     BatteryID:PoBL-batt-450;
     BatteryName:"Pouch of Blood battery 450";
     BatteryFlavorText:"Two steps to hell.";

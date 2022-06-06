@@ -2,7 +2,7 @@ CustomBatteriesPack:
 (
     PluginPackName:HeLe;
     BatteryCapacity:300;
-    UnlocksWith:SeaglideBlueprint;
+    UnlocksWith:Seaglide;
     BatteryID:HeLe-batt-300;
     BatteryName:"Heavy Lead battery 300";
     BatteryFlavorText:"Heavy but useful.";

@@ -2,7 +2,7 @@ CustomBatteriesPack:
 (
     PluginPackName:Prec;
     BatteryCapacity:400;
-    UnlocksWith:ExosuitBlueprint;
+    UnlocksWith:Exosuit;
     BatteryID:Prec-batt-400;
     BatteryName:"Precious battery 400";
     BatteryFlavorText:"My precious!";
